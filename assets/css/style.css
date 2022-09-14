@@ -68,3 +68,47 @@ nav a:hover {
       position: absolute;
      
   }
+  /* <!-- banner and blurbs --> */
+  .banner{
+    width:100%;
+      background-color: rgb(255, 140, 0);
+      position: relative;
+      /* bottom: 20%;
+      top: 80%; */
+    font-size: 350%;
+   text-align:center;
+  border: 100px;
+   color:white;
+  }
+  .container1{
+    height: 60vh;
+    font-size:calc(100% + 1vw);
+    width:100%;
+    background-image:  url("../images/wallhaven-y.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+
+/* text */
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 180%;
+  background-color: #1c87c900;
+  }
+  
+  .child {
+    flex: none  ;
+    
+   
+    flex: 1 1 300px;
+    /* border: 1px solid red; */
+  
+    font-size: 2rem;
+    text-align: center;
+    margin: 7%;
+    
+  }
