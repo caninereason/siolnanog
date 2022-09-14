@@ -1,22 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
 
 body {
-  background-color: rgb(219, 144, 52);
+  background-color: rgb(255, 255, 255);
   margin: 0;
   padding: 0;
   font-family: 'Oswald', sans-serif;
   
-  /* background-image:url(https://cdn.stocksnap.io/img-thumbs/960w/city-river_6YXSFZVOAZ.jpg);
- background-size:stretch; */
+
 }
  /* Nav header */
 nav ul {
   width:100%;
   z-index: 2;
-  background-color: rgba(255, 140, 0, 0);
+
   position: fixed;
   list-style: none;
-  background-color: #618fd4;
+  background-color: #1c2027;
   text-align: center;
   padding: 0;
   margin: 0;
@@ -43,3 +42,29 @@ nav a:hover {
   background-color: #fff;
   color: #4a4a4f;
 }
+/* <!-- Hero image and text --> */
+.container{
+    height:80vh;
+    font-size:calc(100% + 1vh);
+    width:100%;
+    background-image:  url("../images/wallhaven-y.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  overflow:visible;
+  }
+  
+  .container h1{
+   
+      
+    
+      background-color: rgba(255, 140, 0, 0);
+      margin-left: 70%;
+      color: rgb(255, 255, 255);
+      font-size:calc(200% + 1vw);
+      
+     
+      position: absolute;
+     
+  }
