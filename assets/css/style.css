@@ -107,13 +107,13 @@ nav a:hover {
     display: flex;
     flex-wrap: wrap;
     font-size: 180%;
-  background-color: #1c87c900;
+    color: #fff;
   }
   
   .child {
     flex: none  ;
     
-   
+   color: #fff;
     flex: 1 1 300px;
     /* border: 1px solid red; */
   
@@ -133,3 +133,20 @@ nav a:hover {
     background-size: cover;
     
   }
+
+  /* Social-networks */
+
+.social-networks{
+text-align:center;
+}
+
+.social-networks >li{
+    display:inline;
+}
+.social-networks i{
+    font-size:160%;
+    margin: 1%;
+    padding:5%;
+    color:#3a3a3a;
+
+}
