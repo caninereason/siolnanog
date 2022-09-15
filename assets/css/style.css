@@ -28,7 +28,7 @@ nav ul {
 
 nav li {
     
-  font-size: 1.2em;
+  font-size:200%;
   line-height: 40px;
   /* height: 40px; */
   display: inline-block;
@@ -100,7 +100,7 @@ nav a:hover {
   }
   .click li{
   
-    font-size: 1.2em;
+    font-size:200%;
     line-height: 40px;
     /* height: 40px; */
     display: inline-block;
@@ -119,13 +119,13 @@ nav a:hover {
   /* <!-- banner and blurbs --> */
   .banner{
     width:100%;
-      background-color: rgb(255, 140, 0);
+    background-color: rgb(79, 50, 13);
       position: relative;
-      /* bottom: 20%;
-      top: 80%; */
+      
+      bottom: 2em;
     font-size: 350%;
    text-align:center;
-  border: 100px;
+  
    color:white;
   }
   .container1{
