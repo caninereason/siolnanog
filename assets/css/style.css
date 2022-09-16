@@ -9,7 +9,6 @@ body {
   margin: 40px;
   padding: 0;
   font-family: 'Oswald', sans-serif;
-
   overflow: auto;
 }
 
@@ -17,7 +16,6 @@ body {
 nav ul {
   width: 100%;
   z-index: 2;
-
   position: fixed;
   list-style: none;
   background-color: #1c2027;
@@ -29,13 +27,11 @@ nav ul {
 }
 
 nav li {
-
   font-size: 200%;
   line-height: 40px;
   /* height: 40px; */
   display: inline-block;
   margin-left: 7.5%;
-
 }
 
 nav a {
@@ -63,19 +59,13 @@ nav a:hover {
   text-decoration: none;
 }
 
-
 .container h1 {
-
-
-
 
   margin-left: 60vw;
   color: rgb(255, 255, 255);
   font-size: calc(200% + 1vw);
-
   text-decoration: none;
   position: absolute;
-
 }
 
 /* .click ul{
@@ -91,11 +81,9 @@ nav a:hover {
   
    
   } */
-
 .click ul {
   text-align: center;
   position: fixed;
-
   z-index: 10;
   width: 100%;
   background-color: #1c2027;
@@ -104,7 +92,6 @@ nav a:hover {
 }
 
 .click li {
-
   font-size: 200%;
   line-height: 40px;
   /* height: 40px; */
@@ -116,7 +103,6 @@ nav a:hover {
   text-decoration: none;
   color: #fff;
   display: block;
-
 }
 
 .click a:hover {
@@ -129,11 +115,9 @@ nav a:hover {
   width: 100%;
   background-color: rgb(79, 50, 13);
   position: relative;
-
   bottom: 2em;
   font-size: 350%;
   text-align: center;
-
   color: white;
 }
 
@@ -146,7 +130,6 @@ nav a:hover {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-
 }
 
 /* text */
@@ -159,15 +142,12 @@ nav a:hover {
 
 .child {
   flex: none;
-
   color: #fff;
   flex: 1 1 300px;
   /* border: 1px solid red; */
-
   font-size: 2rem;
   text-align: center;
   margin: 7%;
-
 }
 
 .container1 {
@@ -179,11 +159,9 @@ nav a:hover {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-
 }
 
 /* Social-networks */
-
 .social-networks {
   text-align: center;
 }
@@ -197,13 +175,10 @@ nav a:hover {
   margin: 1%;
   padding: 5%;
   color: #ffffff;
-
 }
 
 /* gallery */
 .gallery {
-
-
   line-height: 0;
   -webkit-column-count: 5;
   /* split it into 5 columns */
@@ -213,25 +188,18 @@ nav a:hover {
   -moz-column-gap: 5px;
   column-count: 5;
   column-gap: 5px;
-
-
-
 }
 
 .gallery>img {
-
   width: 100% !important;
   height: auto !important;
   margin-bottom: 5px;
   /* to match column gap */
-
 }
 
 /* .gallery img:hover{
   
  
-
-
   border: 5px solid #f4f4f4;
   transform: scale(2);
   
@@ -243,7 +211,6 @@ nav a:hover {
    z-index: 3;
  
     } */
-
 #darkbox {
   background-color: #f0f8ff00;
   width: 100%;
@@ -381,12 +348,10 @@ button:hover {
     margin-left: 28%;
   }
 
-
   .success {
     margin: auto;
     width: 50%;
     font-size: 400%;
-
     padding: 10px;
     color: rgb(0, 0, 0)
   }

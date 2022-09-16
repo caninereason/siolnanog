@@ -84,7 +84,6 @@
     </div>
     <script>
         let darkBoxVisible = false;
-
         window.addEventListener('load', (event) => {
             let images = document.querySelectorAll("img");
             if (images !== null && images !== undefined && images.length > 0) {
@@ -95,12 +94,10 @@
                 });
             }
         });
-
         function showDarkbox(url) {
             if (!darkBoxVisible) {
                 let x = (window.innerWidth - 1280) / 2;
                 let y = window.scrollY + 50;
-
                 // Create the darkBox
                 var div = document.createElement("div");
                 div.id = "darkbox";
@@ -114,17 +111,13 @@
                     // Remove it
                     let element = document.getElementById("darkbox");
                     element.parentNode.removeChild(element);
-
                     darkBoxVisible = false;
                 })
-
                 darkBoxVisible = true;
-
             } else {
                 // Remove it
                 let element = document.getElementById("darkbox");
                 element.parentNode.removeChild(element);
-
                 darkBoxVisible = false;
             }
         }
