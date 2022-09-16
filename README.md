@@ -16,3 +16,4 @@ http://jsfiddle.net/jujgE/1/
 https://wallhaven.cc/w/j53vzy
 https://wallhaven.cc/w/lm9oqy
 https://timnwells.medium.com/enhancing-our-simple-responsive-image-gallery-746549cd2f11
+https://www.w3schools.com/js/js_validation.asp
