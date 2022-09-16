@@ -1,5 +1,6 @@
 # Hostel-Utopia
-
+Project Goal: to produce a website for a global hostel chain, giving the user access to a home page with information on the company, a gallery of images, and another page
+with a contact form.
 To Do:
 icon
 wc3
