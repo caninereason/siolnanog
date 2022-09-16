@@ -329,5 +329,14 @@ text-align:center;
   margin-top: 2%;
   margin-left: 28%;
   }
-  }
+  
 
+.success{
+  margin: auto;
+  width: 50%;
+font-size: 400%;
+
+padding: 10px;
+color:#fff
+}
+  }
