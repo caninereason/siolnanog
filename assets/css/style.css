@@ -29,7 +29,6 @@ nav ul {
 nav li {
   font-size: 200%;
   line-height: 40px;
-  /* height: 40px; */
   display: inline-block;
   margin-left: 7.5%;
 }
@@ -55,7 +54,6 @@ nav a:hover {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  /* overflow:visible; */
   text-decoration: none;
 }
 
@@ -68,19 +66,6 @@ nav a:hover {
   position: absolute;
 }
 
-/* .click ul{
-    width:100%;
-    z-index: 2;
-  
-   
-    list-style: none;
-    background-color: #1c2027;
-    text-align: center;
-    padding: 0;
-    margin: 0;
-  
-   
-  } */
 .click ul {
   text-align: center;
   position: fixed;
@@ -113,7 +98,7 @@ nav a:hover {
 /* <!-- banner and blurbs --> */
 .banner {
   width: 100%;
-  background-color: rgb(79, 50, 13);
+  background-color: rgb(57, 28, 16);
   position: relative;
   bottom: 2em;
   font-size: 350%;
@@ -180,13 +165,11 @@ nav a:hover {
 /* gallery */
 .gallery {
   line-height: 0;
-  -webkit-column-count: 5;
-  /* split it into 5 columns */
-  -webkit-column-gap: 5px;
-  /* give it a 5px gap between columns */
-  -moz-column-count: 5;
+  -webkit-column-count: 4;
+   -webkit-column-gap: 5px;
+    -moz-column-count: 4;
   -moz-column-gap: 5px;
-  column-count: 5;
+  column-count: 4;
   column-gap: 5px;
 }
 
@@ -197,20 +180,6 @@ nav a:hover {
   /* to match column gap */
 }
 
-/* .gallery img:hover{
-  
- 
-  border: 5px solid #f4f4f4;
-  transform: scale(2);
-  
-    -webkit-transition-duration: 1s;
-  -moz-transition-duration: 1s;
-  -o-transition-duration: 1s;
-  transition-duration: 1s;
- 
-   z-index: 3;
- 
-    } */
 #darkbox {
   background-color: #f0f8ff00;
   width: 100%;
