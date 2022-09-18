@@ -133,7 +133,7 @@ nav a:hover {
   font-size: 2rem;
   text-align: center;
   margin: 7%;
-  margin-top: -10%;
+  margin-top: -7%;
 }
 
 .container1 {
@@ -218,6 +218,7 @@ nav a:hover {
     width: 80%;
 
   }
+  
 }
 
 @media (max-width: 800px) {
@@ -232,6 +233,11 @@ nav a:hover {
 
     width: 100%;
   }
+  .container h1 {
+
+    margin-left: 0;
+  }
+  
 }
 
 @media (max-width: 400px) {
@@ -239,6 +245,10 @@ nav a:hover {
     -moz-column-count: 1;
     -webkit-column-count: 1;
     column-count: 1;
+  }
+  .container h1 {
+
+    margin-left: 0;
   }
 
   form {
