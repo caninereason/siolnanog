@@ -22,4 +22,4 @@ code
 https://timnwells.medium.com/enhancing-our-simple-responsive-image-gallery-746549cd2f11
 https://www.w3schools.com/js/js_validation.asp
 
-![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/Lighthouse Report.png)
+![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/Lighthouse Report.png?raw=true)
