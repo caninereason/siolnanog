@@ -17,7 +17,7 @@ the site can be accessed here: https://caninereason.github.io/Hostel-Utopia/inde
 ### Features<br> 
 Here in the home page there are links to each of the 3 pages at the top, and on the bottom you can find links to the different pieces of text on the home page. This changes to social media links on the other pages. <br> 
 - Bugs<br> 
-There was a bug where the success page from the form would throw a 404 error. <br>  After much troubleshooting I realised that the action in the form was directed to "/success.html" and not "success.html".
+There was a bug where the success page from the form would throw a 404 error. After much troubleshooting I realised that the action in the form was directed to "/success.html" and not "success.html".
  <br> 
 -References: <br> 
 https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form <br> 
@@ -34,3 +34,4 @@ https://www.w3schools.com/js/js_validation.asp <br>
 footer:https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode
 <br>
 ![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/Lighthouse-Report.png?raw=true)
+<br>
