@@ -194,6 +194,7 @@ nav a:hover {
   margin: 0 auto;
   max-width: 50%;
   max-height: 50%;
+  text-align: center;
 }
 
 @media (max-width: 1200px) {
@@ -216,7 +217,15 @@ nav a:hover {
     width: 80%;
 
   }
-
+  .darkboximg {
+    width: 40%;
+    height: 10%;
+    margin:0%;
+    max-width: 50%;
+    max-height: 50%;
+    position: relative;
+    text-align: center;
+  }
 }
 
 @media (max-width: 800px) {
@@ -226,7 +235,14 @@ nav a:hover {
     column-count: 2;
 
   }
-
+  .darkboximg {
+    width: 40%;
+    height: 10%;
+    margin: 0 auto;
+    max-width: 50%;
+    max-height: 50%;
+    position: relative;
+  }
   form {
 
     width: 100%;
