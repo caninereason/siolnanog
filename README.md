@@ -16,7 +16,7 @@ the site can be accessed here: https://caninereason.github.io/Hostel-Utopia/inde
  
 ### Features
 On the top of the home page there are links to each of the 3 pages at the top,Home, Gallery and Contact, which bring the user to respective pages.On the bottom you can find links to the different pieces of text describing each element on the home page . This bar changes to social media links on the other pages for user convenience. There is a working, validated form which leads to a success page, and there is also a gallery, which can be clicked and interacted with on a basic level.
-- Bugs
+- Bugs:
 There was a bug where the success page from the form would throw a 404 error. After much troubleshooting I realised that the action in the form was directed to "/success.html" and not "success.html".
 
 -References:
@@ -31,6 +31,7 @@ https://wallhaven.cc/w/76o9jv
 -code  
 https://timnwells.medium.com/enhancing-our-simple-responsive-image-gallery-746549cd2f11 
 https://www.w3schools.com/js/js_validation.asp 
-footer:https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode
+-footer:
+ https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode
 
 ![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/Lighthouse-Report.png?raw=true)
