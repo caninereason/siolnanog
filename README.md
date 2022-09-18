@@ -27,5 +27,5 @@ https://wallhaven.cc/w/76o9jv <br>
 code <br> 
 https://timnwells.medium.com/enhancing-our-simple-responsive-image-gallery-746549cd2f11 <br> 
 https://www.w3schools.com/js/js_validation.asp <br> 
-
+footer:https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode
 ![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/Lighthouse-Report.png?raw=true)
