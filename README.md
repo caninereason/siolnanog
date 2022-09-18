@@ -1,4 +1,5 @@
 # Hostel-Utopia
+![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/reindex.png?raw=true)
 Project Goal: 
 to produce a website for a global hostel chain, giving the user access to a home page with information on the company, a gallery of images, and another page
 with a contact form.
@@ -9,6 +10,7 @@ the target audience will be backpackers and travellers who wish to avail of acco
 Deployment:
 The site was deployed to github pages using the standard deployment method.
 the site can be accessed here: https://caninereason.github.io/Hostel-Utopia/index.html
+
 Bugs:
 There was a bug where the success page from the form would throw a 404 error. After much troubleshooting I realised that the action in the form was directed to "/success.html" and not "success.html".
 
