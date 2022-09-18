@@ -1,11 +1,11 @@
 # Hostel-Utopia
 ![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/reindex.png?raw=true)
-here in the home page there are links to each of the 3 pages at the top, and on the bottom you can find links to the different pieces of text on the home page. This changes to social media links on the other pages. <br> 
-Project Goal:  <br> 
+Here in the home page there are links to each of the 3 pages at the top, and on the bottom you can find links to the different pieces of text on the home page. This changes to social media links on the other pages. <br> 
+#Project Goal:  <br> 
 to produce a website for a global hostel chain, giving the user access to a home page with information on the company, a gallery of images, and another page
 with a contact form.
  <br> 
-Target audience: <br> 
+#Target audience: <br> 
 the target audience will be backpackers and travellers who wish to avail of accomadation which offers many further amenities such as transport, tours and security.
  <br> 
 Deployment: <br> 
