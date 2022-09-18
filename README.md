@@ -19,19 +19,19 @@ On the top of the home page there are links to each of the 3 pages at the top,Ho
 - Bugs:
 There was a bug where the success page from the form would throw a 404 error. After much troubleshooting I realised that the action in the form was directed to "/success.html" and not "success.html".
 
--References:
+- References:
 https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
 https://codepen.io/hubspot/pen/gOvBMEx 
 http://jsfiddle.net/jujgE/1/ 
--Images 
+- Images 
 https://www.megapixl.com/search?author=&keyword=hosterl 
 https://wallhaven.cc/w/j53vzy  
 https://wallhaven.cc/w/lm9oqy  
 https://wallhaven.cc/w/76o9jv  
--code  
+- code  
 https://timnwells.medium.com/enhancing-our-simple-responsive-image-gallery-746549cd2f11 
 https://www.w3schools.com/js/js_validation.asp 
--footer:
+- footer:
  https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode
 
 ![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/Lighthouse-Report.png?raw=true)
