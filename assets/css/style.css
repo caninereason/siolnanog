@@ -176,7 +176,7 @@ nav a:hover {
   width: 100% !important;
   height: auto !important;
   margin-bottom: 5px;
-  
+
 }
 
 #darkbox {
@@ -216,7 +216,7 @@ nav a:hover {
     width: 80%;
 
   }
-  
+
 }
 
 @media (max-width: 800px) {
@@ -231,11 +231,12 @@ nav a:hover {
 
     width: 100%;
   }
+
   .container h1 {
 
     margin-left: 0;
   }
-  
+
 }
 
 @media (max-width: 400px) {
@@ -244,6 +245,7 @@ nav a:hover {
     -webkit-column-count: 1;
     column-count: 1;
   }
+
   .container h1 {
 
     margin-left: 0;
