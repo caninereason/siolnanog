@@ -79,7 +79,6 @@ nav a:hover {
 .click li {
   font-size: 200%;
   line-height: 40px;
-  /* height: 40px; */
   display: inline-block;
   margin-left: 7.5%;
 }
@@ -129,7 +128,6 @@ nav a:hover {
   flex: none;
   color: #fff;
   flex: 1 1 300px;
-  /* border: 1px solid red; */
   font-size: 2rem;
   text-align: center;
   margin: 7%;
@@ -178,7 +176,7 @@ nav a:hover {
   width: 100% !important;
   height: auto !important;
   margin-bottom: 5px;
-  /* to match column gap */
+  
 }
 
 #darkbox {
