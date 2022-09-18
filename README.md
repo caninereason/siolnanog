@@ -6,6 +6,9 @@ with a contact form.
 Target audience:
 the target audience will be backpackers and travellers who wish to avail of accomadation which offers many further amenities such as transport, tours and security.
 
+Deployment:
+The site was deployed to github pages using the standard deployment method.
+the site can be accessed here: https://caninereason.github.io/Hostel-Utopia/index.html
 Bugs:
 There was a bug where the success page from the form would throw a 404 error. After much troubleshooting I realised that the action in the form was directed to "/success.html" and not "success.html".
 
