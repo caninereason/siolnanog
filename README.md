@@ -1,5 +1,5 @@
 # Hostel-Utopia
-Hostel Utopis is a site for a hostel chain that specializing in offering their guests convienience,comfort,mobility and security. They provide their guests with many different amenities, transport and security options and affordable rates.
+Hostel Utopia is a site for a hostel chain that is specializing in offering their guests convienience,comfort,mobility and security. They provide their guests with many different amenities, transport and security options ,convenient locations and affordable rates .
 ## Project Goal:  
 to produce a website for a global hostel chain, giving the user access to a home page with information on the company, a gallery of images, and another page
 with a contact form.
