@@ -11,10 +11,13 @@ There was a bug where the success page from the form would throw a 404 error. Af
 
 References:
 https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
-https://www.megapixl.com/search?author=&keyword=hosterl
 https://codepen.io/hubspot/pen/gOvBMEx
 http://jsfiddle.net/jujgE/1/
+Images
+https://www.megapixl.com/search?author=&keyword=hosterl
 https://wallhaven.cc/w/j53vzy
 https://wallhaven.cc/w/lm9oqy
+https://wallhaven.cc/w/76o9jv
+code
 https://timnwells.medium.com/enhancing-our-simple-responsive-image-gallery-746549cd2f11
 https://www.w3schools.com/js/js_validation.asp
