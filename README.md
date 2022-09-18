@@ -1,18 +1,18 @@
 # Hostel-Utopia
-![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/reindex.png?raw=true)
-Here in the home page there are links to each of the 3 pages at the top, and on the bottom you can find links to the different pieces of text on the home page. This changes to social media links on the other pages. <br> 
-#Project Goal:  <br> 
+
+## Project Goal:  <br> 
 to produce a website for a global hostel chain, giving the user access to a home page with information on the company, a gallery of images, and another page
 with a contact form.
  <br> 
-#Target audience: <br> 
+Target audience: <br> 
 the target audience will be backpackers and travellers who wish to avail of accomadation which offers many further amenities such as transport, tours and security.
  <br> 
 Deployment: <br> 
 The site was deployed to github pages using the standard deployment method.ie, go to settings and under the pages menu click deploy.
 the site can be accessed here: https://caninereason.github.io/Hostel-Utopia/index.html
  <br> 
-Bugs:
+ ![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/reindex.png?raw=true)
+Here in the home page there are links to each of the 3 pages at the top, and on the bottom you can find links to the different pieces of text on the home page. This changes to social media links on the other pages. <br> 
 There was a bug where the success page from the form would throw a 404 error. <br>  After much troubleshooting I realised that the action in the form was directed to "/success.html" and not "success.html".
  <br> 
 References: <br> 
