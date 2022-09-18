@@ -25,7 +25,7 @@
     <form name="myForm" action="success.html" onsubmit="return hasValue()" method="get" >
       <h1>Contact Us</h1>
       <div class="info">
-        <input id="fnameVal" type="text" name="fname" placeholder="Full name">
+        <input id="fnameVal" type="text" name="fname" placeholder="Name">
         <input id="anameVal" type="text" name="aname" placeholder="Email">
         <input id="bnameVal" type="text" name="bname" placeholder="Phone number">
         <input id="cnameVal" type="text" name="cname" placeholder="Website">
@@ -65,19 +65,19 @@
       var fnameVal = document.getElementById('bnameVal').value
       var fnameVal = document.getElementById('cnameVal').value
       if (!fnameVal) {
-        alert("The field needs a value!")
+        alert("Name needs a value!")
         return false;
       }
       if (!anameVal) {
-        alert("The field needs a value!")
+        alert("Email needs a value!")
         return false;
       }
       if (!bnameVal) {
-        alert("The field needs a value!")
+        alert("Phone Number needs a value!")
         return false;
       }
       if (!cnameVal) {
-        alert("The field needs a value!")
+        alert("Website needs a value!")
         return false;
       }
     }
