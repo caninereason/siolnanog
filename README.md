@@ -31,7 +31,6 @@ https://wallhaven.cc/w/lm9oqy
 https://wallhaven.cc/w/76o9jv  
 - code  
 https://timnwells.medium.com/enhancing-our-simple-responsive-image-gallery-746549cd2f11 
-https://www.w3schools.com/js/js_validation.asp 
-
+https://stackoverflow.com/questions/53351438/how-to-efficiently-validate-multiple-input-fields-in-a-form
 
 ![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/Lighthouse-Report.png?raw=true)
