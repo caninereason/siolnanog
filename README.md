@@ -51,23 +51,48 @@ the target audience will be backpackers and travellers who wish to avail of acco
     - [W3C validator contact](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcaninereason.github.io%2FHostel-Utopia%2Fcontact.html)
 
 - Css
+    - 0 errors found (unable to provide link )
     
+- Lighthouse Report
+
+![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/lhreport.png)
+
 - Bugs:
 There was a bug where the success page from the form would throw a 404 error. After much troubleshooting I realised that the action in the form was directed to "/success.html" and not "success.html".
 
-### References:
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - on the left is a menu, find pages and open it
+  - under Branch it will say "GitHub Pages is currently disabled. Select a source below to enable GitHub Pages for this repository"
+  - From the source section drop-down menu, select the main branch
+  - Once the main branch has been selected, press the save button to the right
+  - Now the message under branch should read "Your GitHub Pages site is currently being built from the main branch." 
+
+## How to Fork
+1. Login to [GitHub](https://github.com/).
+2. Locate the repository 
+3. Click on the 'Fork' button in the upper left.
+4. Your should now have a forked version of the repository.
+
+## Credits
+
+
 - footer:
- https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode
+https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode
 https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
 https://codepen.io/hubspot/pen/gOvBMEx 
 http://jsfiddle.net/jujgE/1/ 
+
 - Images 
 https://www.megapixl.com/search?author=&keyword=hosterl 
 https://wallhaven.cc/w/j53vzy  
 https://wallhaven.cc/w/lm9oqy  
 https://wallhaven.cc/w/76o9jv  
+
 - code  
 https://timnwells.medium.com/enhancing-our-simple-responsive-image-gallery-746549cd2f11 
 https://stackoverflow.com/questions/53351438/how-to-efficiently-validate-multiple-input-fields-in-a-form
 
-![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/Lighthouse-Report.png?raw=true)
+
