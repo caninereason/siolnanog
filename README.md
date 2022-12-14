@@ -53,7 +53,7 @@ the target audience will be backpackers and travellers who wish to avail of acco
     - [W3C validator success](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcaninereason.github.io%2FHostel-Utopia%2Fcontact.html)
 - Css
     - 0 errors found 
-    -[W3C validator css](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcaninereason.github.io%2FHostel-Utopia%2Fassets%2Fcss%2Fstyle.css)
+    - [W3C validator css](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcaninereason.github.io%2FHostel-Utopia%2Fassets%2Fcss%2Fstyle.css)
     
 - Lighthouse Report
 
@@ -96,5 +96,6 @@ https://wallhaven.cc/w/76o9jv
 ### code  
 https://timnwells.medium.com/enhancing-our-simple-responsive-image-gallery-746549cd2f11 
 https://stackoverflow.com/questions/53351438/how-to-efficiently-validate-multiple-input-fields-in-a-form
+https://codepen.io/hubspot/pen/gOvBMEx
 
 
