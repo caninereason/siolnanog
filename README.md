@@ -80,7 +80,6 @@ There was a bug where the success page from the form would throw a 404 error. Af
 
 ## Credits
 
-
 ### footer:
 https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode
 https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
