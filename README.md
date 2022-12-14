@@ -1,5 +1,5 @@
 # Hostel-Utopia
-Hostel Utopia is a minimalistic site for a hostel chain that is specializing in offering their guests convienience, comfort, mobility and security. They provide their guests with many different amenities, transport and security options ,convenient locations and affordable rates .
+Hostel Utopia is a minimalistic site for a hostel chain that is specializing in offering their guests convienience, comfort, mobility and security. They provide their guests with many different amenities, transport and security options ,convenient locations and affordable rates. Hostel Utopia aims to go above and beyond it's competitors in order to keep their existing customer base, and to attract new customers to it's services.
 ## Project Goal:  
 To produce a simple and informative website for a global hostel chain, giving the user access to a home page with information on the company, a gallery of images with simple interaction, and another page with a validated contact form.
  
