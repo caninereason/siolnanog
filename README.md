@@ -13,7 +13,8 @@ the target audience will be backpackers and travellers who wish to avail of acco
  
 ## Features
  - __Pages__
-   - There are three pages contained in the website, the landing page, a gallery, and a contact page. 
+
+   - There are four pages contained in the website, the landing page, a gallery, a contact page, and a success page. 
 
  - __Navigation Bar__
     
@@ -49,9 +50,10 @@ the target audience will be backpackers and travellers who wish to avail of acco
     - [W3C validator index](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcaninereason.github.io%2FHostel-Utopia%2Findex.html)
     - [W3C validator gallery](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcaninereason.github.io%2FHostel-Utopia%2Fgallery.html)
     - [W3C validator contact](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcaninereason.github.io%2FHostel-Utopia%2Fcontact.html)
-
+    - [W3C validator success](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcaninereason.github.io%2FHostel-Utopia%2Fcontact.html)
 - Css
-    - 0 errors found (unable to provide link )
+    - 0 errors found 
+    -[W3C validator css](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcaninereason.github.io%2FHostel-Utopia%2Fassets%2Fcss%2Fstyle.css)
     
 - Lighthouse Report
 
@@ -79,19 +81,19 @@ There was a bug where the success page from the form would throw a 404 error. Af
 ## Credits
 
 
-- footer:
+### footer:
 https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode
 https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
 https://codepen.io/hubspot/pen/gOvBMEx 
 http://jsfiddle.net/jujgE/1/ 
 
-- Images 
+### Images 
 https://www.megapixl.com/search?author=&keyword=hosterl 
 https://wallhaven.cc/w/j53vzy  
 https://wallhaven.cc/w/lm9oqy  
 https://wallhaven.cc/w/76o9jv  
 
-- code  
+### code  
 https://timnwells.medium.com/enhancing-our-simple-responsive-image-gallery-746549cd2f11 
 https://stackoverflow.com/questions/53351438/how-to-efficiently-validate-multiple-input-fields-in-a-form
 
