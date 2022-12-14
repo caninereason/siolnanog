@@ -1,5 +1,5 @@
 # Hostel-Utopia
-Hostel Utopia is a minimalistic site for a hostel chain that is specializing in offering their guests convienience, comfort, mobility and security. They provide their guests with many different amenities, transport and security options, convenient locations and affordable rates. Hostel Utopia aims to go above and beyond it's competitors in order to keep their existing customer base, and to attract new customers to it's services.
+Hostel Utopia is a minimalistic site for a hostel chain that is specializing in offering their guests convenience, comfort, mobility, and security. They provide their guests with many different amenities, transport and security options, convenient locations, and affordable rates. Hostel Utopia aims to go above and beyond its competitors in order to keep its existing customer base and to attract new customers to its services.
 
 ![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/mockup.png)
 ## Project Goal:  
@@ -7,7 +7,7 @@ To produce a simple and informative website for a global hostel chain, giving th
  
 
 - Target audience: 
-the target audience will be backpackers and travellers who wish to avail of accomadation which offers many further amenities such as transport, tours and security.
+the target audience will be backpackers and travelers who wish to avail of accommodation which offers many further amenities such as transport, tours, and security.
  
  ![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/reindex.png?raw=true)
  
@@ -24,7 +24,7 @@ the target audience will be backpackers and travellers who wish to avail of acco
 
  - __Footer__
 
-   - The links bar is situated at the bottom of the page and will either give users a convenient shortcut to information on the homepage, or links to social networks on other pages. It will always be fixed to the bottom of the page for ease of navigation.
+   - The links bar is situated at the bottom of the page and will either give users a convenient shortcut to information on the homepage or links to social networks on other pages. It will always be fixed to the bottom of the page for ease of navigation.
  
  ![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/footer.png)
 
@@ -42,7 +42,7 @@ the target audience will be backpackers and travellers who wish to avail of acco
 
 ## Testing
 
-- The site was tested on many different devices - desktop, laptops and mobile devices. It was also tested on many different browsers such as firefox, opera, brave and chrome with no errors discovered
+- The site was tested on many different devices - desktops, laptops and mobile devices. It was also tested on many different browsers such as firefox, opera, brave, and chrome with no errors discovered
 ### Validator Testing
 
 - Html
@@ -60,23 +60,23 @@ the target audience will be backpackers and travellers who wish to avail of acco
 ![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/LHreport.png)
 
 - Bugs:
-There was a bug where the success page from the form would throw a 404 error. After much troubleshooting I realised that the action in the form was directed to "/success.html" and not "success.html".
+There was a bug where the success page from the form would throw a 404 error. After much troubleshooting, I realized that the action in the form was directed to "/success.html" and not "success.html".
 
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - on the left is a menu, find pages and open it
-  - under Branch it will say "GitHub Pages is currently disabled. Select a source below to enable GitHub Pages for this repository"
+  - under Branch, it will say "GitHub Pages is currently disabled. Select a source below to enable GitHub Pages for this repository"
   - From the source section drop-down menu, select the main branch
-  - Once the main branch has been selected, press the save button to the right
-  - Now the message under branch should read "Your GitHub Pages site is currently being built from the main branch." 
+  - Once the main branch has been selected, press the save button on the right
+  - Now the message under Branch should read "Your GitHub Pages site is currently being built from the main branch." 
 
 ## How to Fork
 1. Login to [GitHub](https://github.com/).
 2. Locate the repository 
 3. Click on the 'Fork' button in the upper left.
-4. Your should now have a forked version of the repository.
+4. You should now have a forked version of the repository.
 
 ## Credits
 
