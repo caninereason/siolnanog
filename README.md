@@ -1,4 +1,4 @@
-# Hostel-Utopia
+# Hostel-Utopia [Hostel-Utopia](https://caninereason.github.io/Hostel-Utopia/index.html)
 Hostel Utopia is a minimalistic site for a hostel chain that is specializing in offering their guests convenience, comfort, mobility, and security. They provide their guests with many different amenities, transport and security options, convenient locations, and affordable rates. Hostel Utopia aims to go above and beyond its competitors in order to keep its existing customer base and to attract new customers to its services.
 
 ![alt text](https://github.com/caninereason/Hostel-Utopia/blob/main/assets/images/mockup.png)
