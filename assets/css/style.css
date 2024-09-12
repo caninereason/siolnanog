@@ -1,11 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+:root {
+  --banner-color: #5B9A5B; /* Example color */
+  --banner-c: #8D6E63;
+  --bck-color: #9DBF9E;
 
 html {
   scroll-behavior: smooth;
 }
 
 body {
-  background-color: #1c2027;
+  background-color: #9fa35f;
   margin: 40px;
   padding: 0;
   font-family: 'Oswald', sans-serif;
@@ -18,7 +22,7 @@ nav ul {
   z-index: 2;
   position: fixed;
   list-style: none;
-  background-color: #1c2027;
+  background-color: var(--banner-color);
   text-align: center;
   padding: 0;
   margin: 0;
@@ -71,7 +75,7 @@ nav a:hover {
   position: fixed;
   z-index: 10;
   width: 100%;
-  background-color: #1c2027;
+  background-color: var(--banner-color);
   bottom: -20px;
   right: 20px;
 }
@@ -97,7 +101,7 @@ nav a:hover {
 /* <!-- banner and blurbs --> */
 .banner {
   width: 100%;
-  background-color: rgb(57, 28, 16);
+  background-color: var(--banner-color);
   position: relative;
   bottom: 2em;
   font-size: 350%;
@@ -109,7 +113,7 @@ nav a:hover {
   height: 60vh;
   font-size: calc(100% + 1vw);
   width: 100%;
-  background-image: url("../images/wallhaven-x.png");
+  background-image: url("../images/wallhaven-x.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -138,7 +142,7 @@ nav a:hover {
   height: 60vh;
   font-size: calc(100% + 1vw);
   width: 100%;
-  background-image: url("../images/wallhaven-x.png");
+  background-image: url("../images/wallhaven-x.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -292,7 +296,7 @@ nav a:hover {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url("../images/wallhaven-z.png");
+  background-image: url("../images/wallhaven-z.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
